@@ -1,7 +1,7 @@
 # CertificateGenerator
 Certificate Automatic Generator
 
-This simple project helps organizations that need to manually create thousands of certificates for their employees or students. The aim of the project is to reduce the time spent on certification.
+This simple script helps organizations that need to manually create thousands of certificates for their employees or students. The project aims to reduce the time spent on making the certificates.
 
 - inpot:
   - Certificate Template (without student's name)
