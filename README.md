@@ -23,4 +23,7 @@ draw.text((1500 , 970 ), rev_text, fill=(255,0,0,255), font=font)
 
 #### NOW YOU ARE READY TO GENERATE THOUSANDS OF CERTIFICATES ON THE SAME TIME :)
 
+
+## Contributing
+Pull requests are welcome. To rewrite the script in languages other than Python.
  
