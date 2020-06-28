@@ -9,7 +9,7 @@ This simple script helps organizations that need to manually create thousands of
 - output:
   - PDF certificates
 
-## How it's work?
+## How does it work?
 - load the font and Excel sheet
 ``` 
 font = ImageFont.truetype("Tajawal-Regular.ttf", 100)
